@@ -2,6 +2,7 @@
 
 ## mediawikiをDockerで構築
 
+https://www.mediawiki.org/wiki/MediaWiki/ja
 
 ## 設定ファイル作成画面
 
